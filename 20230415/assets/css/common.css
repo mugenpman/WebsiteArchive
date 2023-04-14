@@ -1,0 +1,58 @@
+body {
+ margin: 6em;
+ background: #eee;
+}
+
+main {
+ background-color: #fff;
+ padding: 3em 6em;
+ border-radius: 1.5em;
+}
+
+footer {
+ text-align: center;
+}
+
+h1 {
+ font-size: 2em;
+ font-family: 'Arial', 'Meiryo', sans-serif;
+ line-height: 1.5em;
+ margin: 0.5em 0;
+}
+
+h2 {
+ font-size: 1.5em;
+ font-family: 'Arial', 'Meiryo', sans-serif;
+ line-height: 1.5em;
+ margin: 1em 0;
+}
+
+p {
+ font-size: 1em;
+ font-family: 'Arial', 'Meiryo', sans-serif;
+ line-height: 1.5em;
+ margin: 0.5em 0;
+}
+
+li {
+ font-size: 1em;
+ font-family: 'Arial', 'Meiryo', sans-serif;
+ line-height: 24px;
+ margin: 0.5em 0;
+}
+
+a.header_link {
+ color: #666;
+ text-decoration: none;
+ margin-right: 1.2em;
+}
+
+a.header_link_u {
+ color: #666;
+ margin-right: 1.2em;
+}
+
+p.cite {
+ font-size: 0.8em;
+ color: #666;
+}
